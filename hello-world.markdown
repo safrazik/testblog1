@@ -5,3 +5,9 @@ permalink: "/"
 ---
 
 blog test1
+
+cool **bold**
+
+> This must be a quote
+
+perfect!
